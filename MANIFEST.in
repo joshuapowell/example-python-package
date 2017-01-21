@@ -1,0 +1,4 @@
+graft endor/static
+graft endor/templates
+
+from .endor import app

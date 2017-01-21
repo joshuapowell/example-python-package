@@ -1,0 +1,8 @@
+MANIFEST.in
+endor/__init__.py
+endor/endor.py
+endor.egg-info/PKG-INFO
+endor.egg-info/SOURCES.txt
+endor.egg-info/dependency_links.txt
+endor.egg-info/requires.txt
+endor.egg-info/top_level.txt
