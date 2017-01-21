@@ -15,6 +15,7 @@ setup(
     url="https://github.com/joshuapowell/example-python-package",
     author="Joshua Powell",
     license="MIT",
+    keywords="python setuptools example package installer pip",
     packages=["endor"],
     include_package_data=True,
     install_requires=[
