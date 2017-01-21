@@ -12,6 +12,7 @@ setup(
     name="endor",
     version="0.0.1-dev",
     description="An example Python Package",
+    url="https://github.com/joshuapowell/example-python-package",
     packages=["endor"],
     include_package_data=True,
     install_requires=[
