@@ -46,3 +46,7 @@ have hosted on Github.com, you would execute the following command:
 ```
 pip install git+git://github.com/joshuapowell/example-python-package/
 ```
+
+## Documentation for Creating Packages
+- [Official Python Packaging User Guide](https://packaging.python.org/)
+- [Flask Package Tutorial](http://flask.pocoo.org/docs/0.12/tutorial/packaging/)
